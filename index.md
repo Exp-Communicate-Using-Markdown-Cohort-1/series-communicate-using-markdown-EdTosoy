@@ -12,3 +12,8 @@
 $ git init
 this is a code example
 ```
+
+
+- [ ] Turn on Githb Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
